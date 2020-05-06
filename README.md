@@ -1,3 +1,3 @@
-#  http://ClubPooks.githun.io
+#  http://ClubPooks.github.io
 
 ClubPooks
